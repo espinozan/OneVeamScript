@@ -57,4 +57,4 @@ Este proyecto se distribuye bajo la [MIT License](LICENSE).
 
 ---
 
-_Desarrollado por Nahuel Espinoza – Ingeniero en Software y Sistemas con experto en Windows y servicios Veeam._
+_Desarrollado por Nahuel Espinoza – Ingeniero en Software y Sistemas experto en Windows y servicios Veeam._
