@@ -1,6 +1,6 @@
 @echo off
 :: =============================================================
-:: OneVeamScript.bat - Gestión de servicios Veeam con programación
+:: OneVeamScript.bat - Gestión de servicios Veeam
 :: =============================================================
 
 :: Si se pasa un parámetro, ejecutar la acción directamente
